@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\bin\Debug\Imposible TicTacToe.exe.config
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\bin\Debug\Imposible TicTacToe.exe
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\bin\Debug\Imposible TicTacToe.pdb
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe_MarkupCompile.cache
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe_MarkupCompile.lref
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.g.resources
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible_TicTacToe.Properties.Resources.resources
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.exe
+\\Mac\Home\Documents\Imposible sharaga\ОАИП C#\Imposible TicTacToe\Imposible TicTacToe\obj\Debug\Imposible TicTacToe.pdb
